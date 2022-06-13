@@ -11,4 +11,5 @@ https://lastminuteengineers.com/dht11-dht22-arduino-tutorial/<br>
 3) Ultrasonic Sensor<br>
 https://wokwi.com/projects/334344881532043858<br>
 
-4) PIR sensor:<br>
+5) PIR sensor:<br>
+https://wokwi.com/projects/334346049182237266<br>
