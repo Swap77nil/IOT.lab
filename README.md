@@ -9,4 +9,4 @@ https://www.electronicshub.org/dht11-humidity-sensor-arduino/<br>
 https://lastminuteengineers.com/dht11-dht22-arduino-tutorial/<br>
 
 3) Ultrasonic Sensor<br>
-https://wokwi.com/projects/334343813033099860<br>
+https://wokwi.com/projects/334344881532043858<br>
