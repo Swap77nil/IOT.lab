@@ -6,3 +6,4 @@
 
 Temperature and Humidity Sensor (DHT11):<br>
 https://www.electronicshub.org/dht11-humidity-sensor-arduino/<br>
+https://lastminuteengineers.com/dht11-dht22-arduino-tutorial/<br>
