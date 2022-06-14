@@ -20,3 +20,6 @@ https://wokwi.com/projects/334346049182237266<br>
 
 6) Button LED<br>
 https://wokwi.com/projects/334430962204017236<br>
+
+7) Button Fade<br>
+https://wokwi.com/projects/334431341587202643<br>
