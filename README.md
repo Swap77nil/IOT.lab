@@ -9,26 +9,26 @@ https://www.electronicshub.org/dht11-humidity-sensor-arduino/<br>
 https://lastminuteengineers.com/dht11-dht22-arduino-tutorial/<br>
 https://wokwi.com/projects/334347596939133523<br>
 
-3) Ultrasonic Sensor<br>
+2) Ultrasonic Sensor<br>
 https://wokwi.com/projects/334344881532043858<br>
 
-4) IR sensor<br>
+3) IR sensor<br>
 https://wokwi.com/projects/334346772804534867<br>
 
-5) PIR sensor:<br>
+4) PIR sensor:<br>
 https://wokwi.com/projects/334346049182237266<br>
 
-6) Button LED<br>
+5) Button LED<br>
 https://wokwi.com/projects/334430962204017236<br>
 
-7) Button Fade<br>
+6) Button Fade<br>
 https://wokwi.com/projects/334431341587202643<br>
 
-8) Motion Sensor<br>
+7) Motion Sensor<br>
 https://wokwi.com/projects/334431854492910163<br>
 
-9) Motion Sensor Buzzer<br>
+8) Motion Sensor Buzzer<br>
 https://wokwi.com/projects/334433831716127314<br>
 
-10) Ultrasonic Sensor LED<br>
+9) Ultrasonic Sensor LED<br>
 https://wokwi.com/projects/334434377002910291<br>
