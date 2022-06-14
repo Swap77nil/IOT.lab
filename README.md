@@ -24,5 +24,8 @@ https://wokwi.com/projects/334430962204017236<br>
 7) Button Fade<br>
 https://wokwi.com/projects/334431341587202643<br>
 
-8) Motion Sensor<br.
+8) Motion Sensor<br>
 https://wokwi.com/projects/334431854492910163<br>
+
+9) Motion Sensor Buzzer<br>
+https://wokwi.com/projects/334432525484032595
