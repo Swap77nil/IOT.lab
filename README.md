@@ -29,3 +29,6 @@ https://wokwi.com/projects/334431854492910163<br>
 
 9) Motion Sensor Buzzer<br>
 https://wokwi.com/projects/334433831716127314<br>
+
+10) Ultrasonic Sensor LED<br>
+https://wokwi.com/projects/334434377002910291<br>
