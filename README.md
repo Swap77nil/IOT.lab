@@ -36,3 +36,6 @@ https://wokwi.com/projects/334975025852449363<br>
 
 11) Servo motor controlled by potentiometer<br>
 https://wokwi.com/projects/334975025852449363<br>
+
+12) Servo motor controlled by button<br>
+https://wokwi.com/projects/334977135889351250<br>
