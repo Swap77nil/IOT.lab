@@ -5,8 +5,6 @@
 4.https://wokwi.com/projects/333806173307273812<br>
 
 1) Temperature and Humidity Sensor (DHT11):<br>
-https://www.electronicshub.org/dht11-humidity-sensor-arduino/<br>
-https://lastminuteengineers.com/dht11-dht22-arduino-tutorial/<br>
 https://wokwi.com/projects/334347596939133523<br>
 
 2) Ultrasonic Sensor<br>
