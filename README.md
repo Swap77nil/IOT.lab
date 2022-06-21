@@ -40,4 +40,8 @@ https://wokwi.com/projects/334978058200023635<br>
 12) Servo motor controlled by button<br>
 https://wokwi.com/projects/334977135889351250<br>
 
-13
+13) Buzzer with Button<br>
+https://wokwi.com/projects/335067311309324884<br>
+
+14)Buzzer<br>
+https://wokwi.com/projects/335066032200745556<br>
