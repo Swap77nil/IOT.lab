@@ -45,3 +45,6 @@ https://wokwi.com/projects/335067311309324884<br>
 
 14)Buzzer<br>
 https://wokwi.com/projects/335066032200745556<br>
+
+15) Ultrasonic sensor cm - inches<br>
+https://wokwi.com/projects/335070673931076179<br>
