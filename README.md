@@ -48,5 +48,7 @@ https://wokwi.com/projects/335066032200745556<br>
 
 15) Ultrasonic sensor cm - inches<br>
 https://wokwi.com/projects/335070673931076179<br>
-buzzeer<20<br>
+with Buzzeer<br>
+https://wokwi.com/projects/335610455923884628<br>
+with LED and Buzzer<br>
 https://wokwi.com/projects/335610455923884628<br>
