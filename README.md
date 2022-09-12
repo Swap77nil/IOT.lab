@@ -55,7 +55,7 @@ https://wokwi.com/projects/335610455923884628<br>
 
 <br>
 20>>7 segment LED display
-https://wokwi.com/projects/342585966453588564
+https://wokwi.com/projects/342585966453588564<br>
 
 21>>Joystick
 https://wokwi.com/projects/296234816685212169
