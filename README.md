@@ -52,3 +52,23 @@ with Buzzeer<br>
 https://wokwi.com/projects/335610455923884628<br>
 with LED and Buzzer<br>
 https://wokwi.com/projects/335610455923884628<br>
+
+<br>
+20>>7 segment LED display
+https://wokwi.com/projects/342585966453588564
+
+21>>Joystick
+https://wokwi.com/projects/296234816685212169
+
+22>> DHT22 on ESP32
+https://wokwi.com/projects/322410731508073042
+
+
+23>>Display distance on LCD screen with buzzer and LED
+https://wokwi.com/projects/290056311044833800
+
+24>> Electronic safe , powered yy arduino uno
+https://wokwi.com/projects/342586021068669522
+
+25>>Arduino LED Graph
+https://wokwi.com/projects/342586201248629332
